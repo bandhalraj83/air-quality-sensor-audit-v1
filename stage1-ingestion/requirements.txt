@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+xarray>=2023.1
+rasterio>=1.3
+netCDF4>=1.6
+openpyxl>=3.1
+pyarrow>=14.0
+rioxarray>=0.15   # only needed if SatPM arrives as a directory of monthly GeoTIFFs rather than one .nc file
